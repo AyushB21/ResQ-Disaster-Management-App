@@ -6,18 +6,13 @@ Welcome to the Disaster Response Frontend repository! This project focuses on pr
 
 ## Screenshots
 
-<style>
-  .image-container {
-    margin: 20px;
-  }
-</style>
-
-<div class="image-container" align="center">
+<div align="center">
   <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/0d758bf8-1a06-4738-ab12-f508580067b5" alt="IMG-20231018-WA0026" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/b1246b30-1a8f-4d66-8bdc-09763999a45e" alt="IMG-20231018-WA0022" width="200"/>
   <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/cc3f32ad-f6fc-4e52-b77e-cace9b816bec" alt="WhatsApp Image 2023-10-18 at 22 32 01_ab36a870" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/e5df698c-d1e0-4f0c-bfa3-5c74843be9d1" alt="IMG-20231018-WA0023" width="200"/>
-  <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/429afa9d-1ee4-4311-bb3c-55ee86a743cc" alt="IMG-20231018-WA0024" width="200"/>
 </div>
 
 
