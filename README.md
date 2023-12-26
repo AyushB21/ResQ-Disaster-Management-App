@@ -1,45 +1,21 @@
-# Disaster Response Frontend
+# Disaster Response
 
 ## Overview
 
 Welcome to the Disaster Response Frontend repository! This project focuses on providing an intuitive and user-friendly interface for agencies, teams, and the National Disaster Management Authority (NDMA) to coordinate and respond effectively to emergencies. The frontend serves as the user interface for reporting calamities, receiving alerts, managing resources, and collaborating with other responding teams.
 
-## Features
+## Screenshots
 
-### 1. Registration and Setup
+<div align="center">
+  <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/0d758bf8-1a06-4738-ab12-f508580067b5" alt="IMG-20231018-WA0026" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/b1246b30-1a8f-4d66-8bdc-09763999a45e" alt="IMG-20231018-WA0022" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/cc3f32ad-f6fc-4e52-b77e-cace9b816bec" alt="WhatsApp Image 2023-10-18 at 22 32 01_ab36a870" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/e5df698c-d1e0-4f0c-bfa3-5c74843be9d1" alt="IMG-20231018-WA0023" width="200"/>
+</div>
 
-- **User Registration:** Agencies and teams can register on the platform.
-- **NDMA Access:** NDMA has a dedicated login for overseeing and validating emergencies.
-
-### 2. Reporting Calamities
-
-- **Easy Reporting:** Users can report calamities using geo-location or by uploading images for NDMA verification.
-
-### 3. Confirmation and Selection
-
-- **Emergency Confirmation:** NDMA confirms emergencies and selects relevant teams/agencies or assigns specific roles.
-
-### 4. Alert and Deployment
-
-- **Real-time Alerts:** Users receive real-time alerts for emergency response based on their proximity and availability.
-- **Quick Deployment:** Teams can respond to alerts and activate the "On Duty" status promptly.
-
-### 5. Team Assignment
-
-- **Internal Leadership:** Agencies can select an internal leader for the responding team using the frontend.
-
-### 6. "On Duty" Status
-
-- **GPS Activation:** Team leaders can activate the "On Duty" status via GPS upon entering the affected area.
-
-### 7. Group Formation and Collaboration
-
-- **Automatic Grouping:** All responding teams are automatically added to a collaborative group.
-- **Resource Management:** Teams can manage resources, request assistance, and collaborate within the group.
-
-### 8. Request and Response
-
-- **Resource Requests:** Teams can request specific resources, and nearby teams can respond to these requests using the frontend.
 
 ## Getting Started
 
