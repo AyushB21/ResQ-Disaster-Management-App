@@ -1,79 +1,79 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Disaster Response Frontend
 
-# Getting Started
+## Overview
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Welcome to the Disaster Response Frontend repository! This project focuses on providing an intuitive and user-friendly interface for agencies, teams, and the National Disaster Management Authority (NDMA) to coordinate and respond effectively to emergencies. The frontend serves as the user interface for reporting calamities, receiving alerts, managing resources, and collaborating with other responding teams.
 
-## Step 1: Start the Metro Server
+## Features
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+### 1. Registration and Setup
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- **User Registration:** Agencies and teams can register on the platform.
+- **NDMA Access:** NDMA has a dedicated login for overseeing and validating emergencies.
 
-```bash
-# using npm
-npm start
+### 2. Reporting Calamities
 
-# OR using Yarn
-yarn start
-```
+- **Easy Reporting:** Users can report calamities using geo-location or by uploading images for NDMA verification.
 
-## Step 2: Start your Application
+### 3. Confirmation and Selection
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+- **Emergency Confirmation:** NDMA confirms emergencies and selects relevant teams/agencies or assigns specific roles.
 
-### For Android
+### 4. Alert and Deployment
 
-```bash
-# using npm
-npm run android
+- **Real-time Alerts:** Users receive real-time alerts for emergency response based on their proximity and availability.
+- **Quick Deployment:** Teams can respond to alerts and activate the "On Duty" status promptly.
 
-# OR using Yarn
-yarn android
-```
+### 5. Team Assignment
 
-### For iOS
+- **Internal Leadership:** Agencies can select an internal leader for the responding team using the frontend.
 
-```bash
-# using npm
-npm run ios
+### 6. "On Duty" Status
 
-# OR using Yarn
-yarn ios
-```
+- **GPS Activation:** Team leaders can activate the "On Duty" status via GPS upon entering the affected area.
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+### 7. Group Formation and Collaboration
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+- **Automatic Grouping:** All responding teams are automatically added to a collaborative group.
+- **Resource Management:** Teams can manage resources, request assistance, and collaborate within the group.
 
-## Step 3: Modifying your App
+### 8. Request and Response
 
-Now that you have successfully run the app, let's modify it.
+- **Resource Requests:** Teams can request specific resources, and nearby teams can respond to these requests using the frontend.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+## Getting Started
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+1. **Clone the repository:**
 
-## Congratulations! :tada:
+   ```bash
+   git clone https://github.com/AyushB21/ResQ-Disaster-Management-App.git
+   ```
 
-You've successfully run and modified your React Native App. :partying_face:
+2. **Navigate to the project directory:**
 
-### Now what?
+   ```bash
+   cd ResQ-Disaster-Management-App
+   ```
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+3. **Install dependencies:**
 
-# Troubleshooting
+   ```bash
+   npm install
+   ```
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+4. **Start the application:**
 
-# Learn More
+   ```bash
+   npm start
+   ```
 
-To learn more about React Native, take a look at the following resources:
+5. **Access the application through your web browser.**
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## Contributions
+
+
+## License
+
+This project is licensed under the MIT License.
+
+
