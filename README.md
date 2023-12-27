@@ -46,7 +46,12 @@ Welcome to the Disaster Response Frontend repository! This project focuses on pr
 5. **Access the application through your web browser.**
 
 ## Contributions
-
+- [Pranav Tyagi](https://github.com/PranavTyagi-3)
+- [Ayushi Agarwal](https://github.com/ayushi0111)
+- [Neelesh Ranjan](https://github.com/Apx-Monstr)
+- [Tanesha Gahtori](https://github.com/taneshagahtori)
+- [Karthik Mishra]
+- [Ayush Bhatt](https://github.com/AyushB21)
 
 ## License
 
