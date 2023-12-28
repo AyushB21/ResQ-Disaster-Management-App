@@ -50,7 +50,7 @@ Welcome to the Disaster Response Frontend repository! This project focuses on pr
 - [Ayushi Agarwal](https://github.com/ayushi0111)
 - [Neelesh Ranjan](https://github.com/Apx-Monstr)
 - [Tanesha Gahtori](https://github.com/taneshagahtori)
-- [Karthik Mishra]
+- [Karthik Mishra](https://github.com/Hacker-KM)
 - [Ayush Bhatt](https://github.com/AyushB21)
 
 ## License
