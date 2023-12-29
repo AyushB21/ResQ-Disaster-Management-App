@@ -50,6 +50,11 @@ Welcome to the Disaster Response Frontend repository! This project focuses on pr
    ```bash
    npx react-native run-android
    ```
+7. **In order to run the application without cache, run following command**
+
+   ```bash
+   npx react-native start --reset-cache
+   ```
    
 ## Contributions
 - [Pranav Tyagi](https://github.com/PranavTyagi-3)
