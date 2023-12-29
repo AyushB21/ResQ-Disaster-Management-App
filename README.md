@@ -4,7 +4,7 @@
 
 Welcome to the Disaster Response Frontend repository! This project focuses on providing an intuitive and user-friendly interface for agencies, teams, and the National Disaster Management Authority (NDMA) to coordinate and respond effectively to emergencies. The frontend serves as the user interface for reporting calamities, receiving alerts, managing resources, and collaborating with other responding teams.
 
-## Screenshots
+## Screenshot
 
 <div align="center">
   <img src="https://github.com/PranavTyagi-3/ResQ-Disaster-Management-App/assets/89564642/0d758bf8-1a06-4738-ab12-f508580067b5" alt="IMG-20231018-WA0026" width="200"/>
