@@ -45,6 +45,12 @@ Welcome to the Disaster Response Frontend repository! This project focuses on pr
 
 5. **Access the application through your web browser.**
 
+6. **To run the application on Android Emulator or any other Android devices connected to the system:**
+
+   ```bash
+   npx react-native run-android
+   ```
+   
 ## Contributions
 - [Pranav Tyagi](https://github.com/PranavTyagi-3)
 - [Ayushi Agarwal](https://github.com/ayushi0111)
